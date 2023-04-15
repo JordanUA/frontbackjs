@@ -1,0 +1,28 @@
+.input-check{
+    margin-top: 25%; 
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    
+    
+}
+.input {
+    background-color: #f4f4f4;
+    border-radius: 3px;
+    border: none;
+    width: 200px;
+    height: 25px;
+    font-size: 20px;
+}
+.check-btn{
+    height: 27px;
+    margin-left: 10px;
+    border-radius: 8px;
+    background-color: #f4f4f4;
+    border: none;
+    
+    
+}
+body{
+    background-color: white;
+}
